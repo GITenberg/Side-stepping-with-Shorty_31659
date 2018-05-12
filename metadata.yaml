@@ -1,0 +1,43 @@
+_repo: Side-stepping-with-Shorty_31659
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wilson, F. Vaux (Francis Vaux)
+    alias: Wilson, Francis Vaux
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '25775'
+    url: http://www.gutenberg.org/2009/agents/25775
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ford, Sewell
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '7287'
+    url: http://www.gutenberg.org/2009/agents/7287
+description: ''
+gutenberg_issued: '2010-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Humorous stories, American'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+tableOfContents: Shorty and the plute -- Rounding up Maggie -- Up against Bentley
+  -- The Tortonis' star act -- Putting Pinckney on the job -- The soaring of the Sagawas
+  -- Rinkey and the phony lamp -- Pinckney and the twins -- A line on Peacock Alley
+  -- Shorty and the stray -- When Rossiter cut loose -- Two rounds with Sylvie --
+  Giving Bombazoula the hook -- A hunch for Langdon -- Shorty's go with art -- Why
+  Wilbur ducked -- When Swifty was going some -- Playing Wilbur to show -- At home
+  with the Dillons -- The case of Rusty Quinn.
+title: Side-stepping with Shorty
+url: http://www.gutenberg.org/ebooks/31659
